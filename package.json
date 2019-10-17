@@ -1,0 +1,29 @@
+{
+  "name": "site-report",
+  "version": "0.0.0",
+  "description": "Generate a site report in the console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perry-mitchell/site-report.git"
+  },
+  "keywords": [
+    "site",
+    "report"
+  ],
+  "author": "Perry Mitchell <perry@perrymitchell.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perry-mitchell/site-report/issues"
+  },
+  "homepage": "https://github.com/perry-mitchell/site-report#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "keypress": "^0.2.1",
+    "minimist": "^1.2.0",
+    "nightmare": "^3.0.2"
+  }
+}
