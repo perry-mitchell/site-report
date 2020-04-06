@@ -23,7 +23,7 @@
   "dependencies": {
     "blessed": "^0.1.81",
     "keypress": "^0.2.1",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "nightmare": "^3.0.2"
   }
 }
